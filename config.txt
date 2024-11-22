@@ -1,1 +1,5 @@
 Configuración inicial: parámetros predeterminados.
+
+añadir configurancon del proyecto 
+
+guardar cambios 
