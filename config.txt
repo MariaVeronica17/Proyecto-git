@@ -4,3 +4,5 @@ añadir configurancon del proyecto
 
 guardar cambios 
 
+añadir dia 2
+
